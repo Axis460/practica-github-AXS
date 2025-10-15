@@ -1,6 +1,6 @@
 # practica-github-AXS
 
 ## Sobre mi
-- Nombre: <Andres>
+- Nombre: Andres
 - Curso: 1 DAM
-- Aficion: <Jugar videojuegos>
+- Aficion: Jugar videojuegos
